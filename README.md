@@ -1,5 +1,5 @@
 # Hello  
-I'm Eren Varli, a student specializing in Artificial Intelligence and a developer who builds programs, or things for the web and mobile.  
+I'm Eren Varli, a student and a developer who builds programs, or things for the web and mobile.  
 
 ## 🌐 Connect with me:  
 - [Portfolio](https://evarli.com)  
